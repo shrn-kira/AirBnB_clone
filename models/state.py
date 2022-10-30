@@ -1,20 +1,20 @@
 #!/usr/bin/python3
 """
-    Amenity modules
+    State modules
 """
 from models.base_model import BaseModel
 
 
-class Amenity(BaseModel):
+class State(BaseModel):
     """
-        class Amenity inherit from base
-        Attribute:
-            name (str)
+        Class state inherit from Base
+            Attribute:
+                name (str) : name of state
     """
     name = ""
 
     def __init__(self, *args, **kwargs):
         """
-            str
+            Init
         """
         super().__init__(*args, **kwargs)
