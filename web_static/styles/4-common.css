@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     margin:0px;
     padding:0px;
     color:  #484848;
@@ -6,6 +7,15 @@ body {
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .container{
+=======
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.container {
+>>>>>>> 38fdc8c3f754009823a6560403f19944e1409440
     max-width: 1000px;
     margin: 30px auto;
 }

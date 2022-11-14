@@ -1,5 +1,6 @@
 header {
     background-color: white;
+<<<<<<< HEAD
     height:70px;
     width:100%;
     border-bottom: 1px solid;
@@ -13,4 +14,16 @@ header div {
     height: 60px;
     background-image: url(../images/logo.png);
     background-repeat: no-repeat;
+=======
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+.logo {
+    background-image: url(../images/logo.png);
+    position: absolute;
+    width: 136px;
+    height: 60px;
+    left: 20px;
+>>>>>>> 38fdc8c3f754009823a6560403f19944e1409440
 }
